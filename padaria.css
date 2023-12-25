@@ -1,10 +1,11 @@
 body {
     margin: 0;
     background-color: #f4f0e5;
+    font-family: Tahoma;
     
 }
 
-.secao1{
+.secao{
     width: 700px;
     margin: 20px auto;
     text-align: center;
@@ -20,5 +21,22 @@ body {
     margin: 0 10px;
     font-weight: bold;
     font-size: 20px;
+}
+
+h1{
+    font-size: 28px;
+    padding-top: 30px;
+    margin-top: 30px;
+    margin-bottom: 0;
+    border-top: 1px solid #de8e37;
+    color: black;
+    font-weight: bold;
+}
+
+h2{
+    font-weight: normal;
+    color:#de8e37;
+    margin-top: 10px;
+    font-size: 28px;
 }
 
