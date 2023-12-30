@@ -66,3 +66,22 @@ h2{
 .secao-destaque img{
     width:400px;
 }
+
+.link{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.rodape h4{
+    margin-top: 18px;
+    font-weight: bold;
+    color: black;
+}
+
+.rodape h3{
+    border-top: 1px solid #de8e37;
+    padding-top: 20px;
+    color: black;
+}
