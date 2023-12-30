@@ -24,13 +24,14 @@ body {
 }
 
 h1{
-    font-size: 28px;
+    font-size: 32px;
     padding-top: 30px;
     margin-top: 30px;
     margin-bottom: 0;
     border-top: 1px solid #de8e37;
     color: black;
     font-weight: bold;
+    font-family: Garamond;
 }
 
 h2{
@@ -38,6 +39,7 @@ h2{
     color:#de8e37;
     margin-top: 10px;
     font-size: 28px;
+    font-family: Brush Script MT;
 }
 
 .secao-destaque{
@@ -48,13 +50,15 @@ h2{
 }
 
 .secao-destaque h3{
-    font-size: 24px;
+    font-size: 28px; 
 }
 
 .secao-destaque h4{
-    font-size: 22px;
+    font-size: 26px;
     margin-bottom: 10px;
     margin-top: 20px;
+    font-family: Times New Roman;
+    text-decoration: underline;
 }
 
 .secao-destaque p{
